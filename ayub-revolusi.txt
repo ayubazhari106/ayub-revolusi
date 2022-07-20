@@ -8,3 +8,4 @@ Ayub Revolusi
 - ngoding tiap hari
 - olaharga seminggu 1x
 - nikah tahun 2023
+- kerja sebagi programmer backend laravel tahun 2023
